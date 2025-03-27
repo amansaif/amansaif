@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mohd Aman</h1>
 <h3 align="center">A passionate Full Stack Developer who loves coding from India</h3>
 
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/developer-gif-2461104302247665708">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansaif&label=Profile%20views&color=0e75b6&style=flat" alt="amansaif" /> </p>
 
 - 🔭 I’m currently working on **Sentiment Analysis through Face Recoginition**
